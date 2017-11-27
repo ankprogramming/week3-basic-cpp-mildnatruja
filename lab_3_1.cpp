@@ -4,5 +4,17 @@ using namespace std;
 
 int main() {
   // เขียนโปรแกรมเพื่อแสดงผลตามที่กำหนด
-  return 0;
+  cout<< "Ms."
+
+  "natruja"
+
+  "Ansaneha"
+  "mild"
+  "femail"
+  "240342"
+  "listen to music"
+  "single"
+   << endl;
+
+return 0;
 }
